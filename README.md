@@ -1,6 +1,11 @@
 # Model Prediction For oil Palm Production
 
 Develop  a  model  that  predicts  monthly  oil  palm  production  for  January,  February  and  March  2024.  
+<br/>
+View jupyter notebook using this link, since github no longer support ipynb view: 
+https://hub.ovh2.mybinder.org/user/wanasyraf4-01.--tation-analysis-xfpjcixe/lab
+
+
 
 ## Parameter
 <br/>• Production data have yearly seasonality. The duration of oil palm fruit production takes up to 
