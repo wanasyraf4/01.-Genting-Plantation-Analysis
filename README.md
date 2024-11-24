@@ -30,7 +30,7 @@ Oil palm production exhibits yearly seasonality due to climatic patterns and bio
 
 Decomposing the production data into trend, seasonal, and residual components using additive decomposition <br/>
 ![image](https://github.com/user-attachments/assets/8151119b-168e-45f6-961e-f9cb0ef489c9)
-Autocorrelation function (ACF) to detect seasonality. <br/>
+<br/> Autocorrelation function (ACF) to detect seasonality. <br/>
 ![image](https://github.com/user-attachments/assets/c45a029d-36bf-4989-acc7-41b80ab83a9f)
 
 Given the evidence from the decomposition plot and the ACF plot, we reject H₀ and accept H₁, confirming that there is a yearly seasonal pattern in the data.
@@ -41,9 +41,9 @@ Null Hypothesis (H₀): There is no significant difference in production across 
 Alternative Hypothesis (H₁): There is a significant difference in production across different age groups.
 
 
-Compare mean production across age groups with ANOVA
+Compare mean production across age groups with ANOVA <br/>
 ![image](https://github.com/user-attachments/assets/26f4f415-31db-49ad-b20e-d95ed726cb84)
-ANOVA F-statistic: 0.10, p-value: 0.9026
+<br/> ANOVA F-statistic: 0.10, p-value: 0.9026
 
 p-value < 0.05 indicates significant differences between groups. Since p-val > 0.05, Accept H₀, no significant difference in production across different age groups.
 
