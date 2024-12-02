@@ -2,9 +2,8 @@
 
 Develop  a  model  that  predicts  monthly  oil  palm  production  for  January,  February  and  March  2024.  
 <br/>
-View jupyter notebook using this link, since github no longer support ipynb view: 
-[[https://hub.ovh2.mybinder.org/user/wanasyraf4-01.--tation-analysis-xfpjcixe/lab](https://mybinder.org/v2/gh/wanasyraf4/01.-Genting-Plantation-Analysis/HEAD) ](https://colab.research.google.com/drive/1V0kY5FRyqwUEUr9YYZP_tpqnVykghJ75?usp=sharing)
-
+View jupyter notebook using this link, since github no longer support ipynb view:https://colab.research.google.com/drive/1V0kY5FRyqwUEUr9YYZP_tpqnVykghJ75?usp=sharing
+<br/>
 
 
 ## Parameter
@@ -74,4 +73,9 @@ we use regression analysis to assess the impact
 ![image](https://github.com/user-attachments/assets/fef0705c-da8c-472c-a21a-41c7cda437d7)
 
 p-value < 0.05 (-1.9291), we reject H₀ and accept H₁.
+
+# Prediction result
+
+![image](https://github.com/user-attachments/assets/b9d1f0c8-7e60-4f64-9254-fe6e42572f0f)
+![image](https://github.com/user-attachments/assets/e2ab03b7-777e-4183-ba5a-2ca5681fa016)
 
