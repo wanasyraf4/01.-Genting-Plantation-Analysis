@@ -40,6 +40,9 @@ Decomposing the production data into trend, seasonal, and residual components us
 Given the evidence from the decomposition plot and the ACF plot, we reject H₀ and accept H₁, confirming that there is a yearly seasonal pattern in the data.
 
 ## Age Groups and Production
+
+![image](https://github.com/user-attachments/assets/6938bdd3-00f5-4ca2-b693-a07fc3a4f528) <br/>
+
 Null Hypothesis (H₀): There is no significant difference in production across different age groups.
 <br/>
 Alternative Hypothesis (H₁): There is a significant difference in production across different age groups.
